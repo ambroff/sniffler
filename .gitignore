@@ -1,3 +1,7 @@
+# Out-of-source build directories.
+/build/
+/cmake-build-*/
+
 # Prerequisites
 *.d
 
